@@ -1,19 +1,4 @@
-//Aadam Razak - Technical Challenge for the role of Software Developer
-// Code written in Javascript
-// Date: 20/07/2023
-// Also posted on Github : https://github.com/ARazak200
-
-
-// To Execute the code do the following:-
-
-/**
- * 
- * 1. Ensure you have javascript runtime installed like node
- * 2. Use Visual Studio Code with the javascript file opened 
- * 3. Open the terminal with the working directory as RD_code_challenge
- * 4. run the javascript file by using the cmd "node" alongside the file name. The full cmd line will be "node arrayDivider.js".
- */
-
+//Aadam Razak RD_code_challenge/
 
 function divideArrayIntoNParts(arr, N) {
     // Check if the input parameters are valid: arr must be an array, N must be a positive integer.
