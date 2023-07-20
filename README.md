@@ -2,7 +2,7 @@
 ### Author [Aadam Razak](https://github.com/ARazak200)
 Date: 20/07/2023
 
-<a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> 
+<a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"></a> 
 
 <u> Problem Summary</u>
 
